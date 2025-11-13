@@ -1,0 +1,80 @@
+/* body {
+    background-color: #000;
+}
+
+.main {
+    height: 400px;
+    background-color: red;
+    margin-top: 20px;
+}
+
+.two {
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    height: 200px;
+}
+
+.three {
+    background-color: rgb(231, 136, 12);
+    margin-bottom: 10px;
+    height: 200px;
+} */
+ 
+/* .row {
+    width: 100%;
+}
+
+.main {
+    position: relative;
+    text-align: center;
+}
+
+.image-review {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} */
+
+/* .image-review img {
+    width: 104%;
+    align-items: center; */
+    /* is se bhi opacity kam kar sakte hen  */
+    /* filter: brightness(50%); */
+/* } */
+
+/* 
+.layer {
+    position: absolute;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.text-review {
+    position: absolute;
+    left: 10%;
+    bottom: 30%;
+    color: #fff;
+    text-align: left;
+    width: 465px;
+}
+
+.text-review h2 {
+    font-size: 4rem;
+}
+
+@media (max-width:619) {
+
+    .text-review {
+        padding-top: 110px;
+        position: absolute;
+    }
+
+}
+ */
+
+
+
+ 
